@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//div[@class='BltHke nH oy8Mbf']//div[@class='Cp' and preceding-sibling::div[@class='Cp']]//table/tbody/tr[1]/td[@class='oZ-x3 xY']"
-}

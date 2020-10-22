@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Oct 22 22:24:57 EEST 2020","Thu Oct 22 22:25:05 EEST 2020","8500","","Log into account. Log out of the account","","Log into account. Log out of the account","should log into account and log out","should log into account and log out",""
-"passed","Thu Oct 22 22:24:57 EEST 2020","Thu Oct 22 22:25:05 EEST 2020","7635","","Log into account, Send letter, Delete Letter","","Log into account, Send letter, Delete Letter","should log into account","should log into account",""
-"passed","Thu Oct 22 22:25:05 EEST 2020","Thu Oct 22 22:25:09 EEST 2020","3988","","Log into account, Send letter, Delete Letter","","Log into account, Send letter, Delete Letter","should send the letter","should send the letter",""
-"passed","Thu Oct 22 22:25:09 EEST 2020","Thu Oct 22 22:25:09 EEST 2020","593","","Log into account, Send letter, Delete Letter","","Log into account, Send letter, Delete Letter","should delete the last sent letter","should delete the last sent letter",""
