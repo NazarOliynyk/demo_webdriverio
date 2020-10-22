@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should log into account and log out",
+    "uid" : "6e7e5616adad475e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603394697485,
+      "stop" : 1603394705985,
+      "duration" : 8500
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-86.0.4240.111" ]
+  }, {
+    "name" : "should log into account",
+    "uid" : "d8c021da57b344f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603394697485,
+      "stop" : 1603394705120,
+      "duration" : 7635
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-86.0.4240.111" ]
+  }, {
+    "name" : "should send the letter",
+    "uid" : "ad9bc51f8791c0f0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603394705120,
+      "stop" : 1603394709108,
+      "duration" : 3988
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-86.0.4240.111" ]
+  }, {
+    "name" : "should delete the last sent letter",
+    "uid" : "b3b4b16025c70057",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603394709108,
+      "stop" : 1603394709701,
+      "duration" : 593
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-86.0.4240.111" ]
+  } ]
+}

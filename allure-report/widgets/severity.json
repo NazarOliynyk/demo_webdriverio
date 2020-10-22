@@ -1,0 +1,41 @@
+[ {
+  "uid" : "b3b4b16025c70057",
+  "name" : "should delete the last sent letter",
+  "time" : {
+    "start" : 1603394709108,
+    "stop" : 1603394709701,
+    "duration" : 593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e7e5616adad475e",
+  "name" : "should log into account and log out",
+  "time" : {
+    "start" : 1603394697485,
+    "stop" : 1603394705985,
+    "duration" : 8500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad9bc51f8791c0f0",
+  "name" : "should send the letter",
+  "time" : {
+    "start" : 1603394705120,
+    "stop" : 1603394709108,
+    "duration" : 3988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8c021da57b344f",
+  "name" : "should log into account",
+  "time" : {
+    "start" : 1603394697485,
+    "stop" : 1603394705120,
+    "duration" : 7635
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
