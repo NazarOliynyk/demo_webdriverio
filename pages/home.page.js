@@ -11,7 +11,7 @@ class Home{
 
     logOut(){
         this.accountWindow.click();
-        this.exitButton.waitForDisplayed();
+        browser.pause(1000)
         this.exitButton.click();
     }
 
@@ -19,6 +19,6 @@ class Home{
         this.optForAnotherAccount.waitForDisplayed();
         return this.optForAnotherAccount.isEnabled();
     }
-
+    
 }
 module.exports = new Home()
